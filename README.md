@@ -1,4 +1,4 @@
-# Edge-Detection-in-C++
+# Edge-Detection-in-C++ and Java
 
 C++ program to read in raw format image, and perform filtering by convolving it with small operators of 3*3 and 5*5 coefficients. The resulting images should be saved as raw or png format. The output images are:
 
