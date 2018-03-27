@@ -6,3 +6,9 @@ C++ program to read in raw format image, and perform filtering by convolving it 
 (2) Computing a gradient image from the horizontal and vertical differential images. Display both results for 3*3 and 5*5 filters.
 
 (3) Detecting edges at peaks of gradient values over a threshold. The threshold can be selected manually so that the edge results show good shape of scenes. Edge must be one pixel wide and marked in a bright intensity.
+
+![alt text](https://github.com/pritesh899/Edge-Detection-in-C-and-Java-/blob/master/Results/1.png)
+
+![alt text](https://github.com/pritesh899/Edge-Detection-in-C-and-Java-/blob/master/Results/2.png)
+
+![alt text](https://github.com/pritesh899/Edge-Detection-in-C-and-Java-/blob/master/Results/3.png)
